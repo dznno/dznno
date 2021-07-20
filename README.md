@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/ryukwastaken"><strong>Ryuk</strong></a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/dznno"><strong>Dznno</strong></a></h1>
 <h3 align="center">Developer</h3>
 
 <img align="right" width="275px" src="https://stickershop.line-scdn.net/stickershop/v1/product/1176972/LINEStorePC/main.png;compress=true">
@@ -6,24 +6,24 @@
 <h2 align="center"> About </h2>
 
 - <img alt="discord" width="23px" align="top" 
-src="https://svgshare.com/i/Qdg.svg">&nbsp; My Discord is Ryuk#6969
+src="https://svgshare.com/i/Qdg.svg">&nbsp; My Discord is choy#6749
 
 - 📫 Reach me  at <a href="mailto: denzelrbx@gmail.com">denzelrbx@gmail.com</a>
 
-- 🔭 Currently learning Go and Rust
+- 🔭 Currently learning Rust
 
-- 💬 Advanced in Lua and Python, Intermediate in Go and C, Beginner in Rust
+- 💬 Advanced in Lua, Python and JavaScript, Intermediate in Go and C, Beginner in Rust
 
 <h3 align="left">🗣️ Connect with me</h3>  
 <p align="left">  
 <!-- Dev . -->
-<a href="https://dev.to/ryukwastaken" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kitsunies" height="30" width="40" /></a>  
+<a href="https://dev.to/ryukwastaken" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="30" width="40" /></a>  
 <!-- Twitter -->
-<a href="https://twitter.com/ryukwastaken" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_kitsun" height="30" width="40" /></a>  
+<a href="https://twitter.com/ryukwastaken" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>  
 <!-- Stack Overflow -->
-<a href="https://stackoverflow.com/users/14374481" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14374481" height="30" width="40" /></a>  
+<a href="https://stackoverflow.com/users/14374481" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1437448" height="30" width="40" /></a>  
 <!-- Code Forces -->
-<a href="https://codeforces.com/profile/_ryuk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="kitsunies" height="30" width="40" /></a>  
+<a href="https://codeforces.com/profile/_ryuk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">🌱 Languages and Tools</h3>
