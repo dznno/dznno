@@ -44,7 +44,7 @@ src="https://svgshare.com/i/Qdg.svg">&nbsp; My Discord is choy#6749
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 <h3 align="left">📊 GitHub Statistics</h3>
-<a href="https://github.com/ryukwastaken/ryuk">
-    <img style="display:inline" src="https://github-readme-stats.vercel.app/api?username=ryukwastaken&show_icons=true&hide_border=true&include_all_commits=true&hide=contribs,issues">
-    <img style="display:inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryukwastaken&layout=compact&hide_border=true">
+<a href="https://github.com/dznno">
+    <img style="display:inline" src="https://github-readme-stats.vercel.app/api?username=dznno&show_icons=true&hide_border=true&include_all_commits=true&hide=contribs,issues">
+    <img style="display:inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dznno&layout=compact&hide_border=true">
 </a>
