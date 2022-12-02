@@ -12,7 +12,7 @@ src="https://svgshare.com/i/Qdg.svg">&nbsp; My Discord is choy#6749
 
 - 🔭 Currently learning Rust
 
-- 💬 Advanced in Lua, Python and JavaScript, Intermediate in Go and C, Beginner in Rust
+- 💬 Lua, Python, Go, C#
 
 <h3 align="left">🗣️ Connect with me</h3>  
 <p align="left">  
